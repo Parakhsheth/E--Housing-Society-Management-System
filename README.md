@@ -40,6 +40,12 @@ The E-Housing Society Management System is a global web-based application built 
    
 6. **Contact Owners**: Users can access contact details of house owners for further inquiries.
 
+   ## Step to run the Project
+   - ## First you Download Visual Stdio
+     [![Download Visual Stdio](https://img.shields.io/badge/Download-Click%20Here-blue)](https://visualstudio.microsoft.com/)
+   - ## Second Step Download SQL Server
+     [![Download SQL Server](https://img.shields.io/badge/Download-Click%20Here-blue)](https://www.microsoft.com/en-in/sql-server/sql-server-downloads)
+
 ## Contributors
 
 - [parakhsheth]
