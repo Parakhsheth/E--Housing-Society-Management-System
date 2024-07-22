@@ -47,13 +47,13 @@ The E-Housing Society Management System is a global web-based application built 
      [![Download SQL Server](https://img.shields.io/badge/Download-Click%20Here-blue)](https://www.microsoft.com/en-in/sql-server/sql-server-downloads)
 
    - ## Third step to Watch this video
-     [![Watch the video](https://img.shields.io/badge/YouTube-Click%20Here-blue)](https://www.youtube.com/watch?v=ghHzdcpq1Uk)
-
-
+     <a href="https://www.youtube.com/watch?v=ghHzdcpq1Uk" target="_blank">
+     <img src="button.png" alt="Watch the video" style="width:150px;height:auto;"/> <img src="https://img.shields.io/badge/Click%20Here-blue" alt="Watch the video" style="width:100px;height:auto;"/> 
+     </a>
 ## Contributors
 
 - [parakhsheth]
-- [Jane Smith](mailto:jane@example.com)
+
 
 ## Feedback
 
