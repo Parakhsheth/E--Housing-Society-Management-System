@@ -50,6 +50,21 @@ The E-Housing Society Management System is a global web-based application built 
      <a href="https://www.youtube.com/watch?v=ghHzdcpq1Uk" target="_blank">
      <img src="button.png" alt="Watch the video" style="width:150px;height:auto;"/> <img src="https://img.shields.io/badge/Click%20Here-blue" alt="Watch the video" style="width:100px;height:auto;"/> 
      </a>
+
+ - ## Project Report
+
+   - ## Project Profile
+   - ## Introduction Of Project
+   - ## System Analysis and Design
+   - ## Use Case Diagram
+   - ## ER Diagram
+   - ## Data Flow Diagram
+   - ## Design
+- ## Download the Project Report 
+   <a href="https://drive.google.com/file/d/1gYeYhG3d0vRdivzVD3E-9qj2H_M9M73O/view?usp=sharing" target="_blank">
+     <img src="pdf.png" alt="Watch the video" style="width:150px;height:auto;"/> 
+     </a>
+
 ## Contributors
 
 - [parakhsheth]
